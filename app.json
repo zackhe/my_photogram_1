@@ -1,0 +1,1 @@
+{"name":"My Photogram","repository":"https://github.com/murugan-r/my_photogram_1","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
